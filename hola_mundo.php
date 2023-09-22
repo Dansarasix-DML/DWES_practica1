@@ -10,7 +10,7 @@
     echo "Hola Mundo!";
     ?>
     </p>
-    <a href="https://github.com/Dansarasix-DML/DWES_practica1">Github Práctica 1</a>
+    <a href="https://github.com/Dansarasix-DML/DWES_practica1/blob/main/hola_mundo.php">Github Práctica 1</a>
 </body>
 
 </html>
